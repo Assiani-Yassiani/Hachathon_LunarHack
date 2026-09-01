@@ -70,11 +70,9 @@ Hachathon_LunarHack/
 
 ## 🎥 Démo vidéo
 
-[![Regarder la démo](./demo-thumbnail.png)](./demo.mp4)
+[![Regarder la démo](./image.png)](https://vimeo.com/1223169511?share=copy&fl=sv&fe=ci)
 
-*Cliquez sur l'image ci-dessus pour lancer la vidéo de démonstration (`demo.mp4`).*
-
-La vidéo présente les 3 piliers en action : dashboard, agent de vente et assistant marketing.
+*Cliquez sur l'image ci-dessus pour lancer la vidéo de démonstration — dashboard, agent de vente et assistant marketing en action.*
 
 ---
 
